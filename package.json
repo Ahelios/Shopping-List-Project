@@ -1,0 +1,15 @@
+{
+  "name": "shopping-list-project",
+  "version": "1.0.0",
+  "description": "A simple shopping list application built with vanilla JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
